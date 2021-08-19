@@ -10,6 +10,16 @@ The files contain a mix of guiding text and snippets of code. You will use the R
 
 If you haven't already, you should start with reading [calva.io/get-started-with-clojure](https://calva.io/get-started-with-clojure/). 
 
+<details><summary>I am new to VS Code</summary>
+
+If you have never used VS Code before you might want to have a look at [this Getting Started with VS Code video](https://code.visualstudio.com/docs/introvideos/basics). (You can of course ignore the parts about installing for now.) Or at least have [this overview of the VS Code interface](https://code.visualstudio.com/docs/getstarted/userinterface) handy.
+
+There are some difference between regular VS Code and Gitpod's ditto. We'll just help you find the main menu here:
+
+![Here is the menu in Gitpod VS Code](gitpod-vscode-menu.png)
+
+</details>
+
 ## Let's go!
 
 Fire up the Getting Started REPL:
@@ -32,6 +42,6 @@ Happy Interactve Programming! 🎉
 
 ## Learn more
 
-The guides have lots of URLs for the various topics brought up.
+The guides are sprincled with URLs for the various topics brought up.
 
 The Calva Documentation is here: [calva.io](https://calva.io/). 
