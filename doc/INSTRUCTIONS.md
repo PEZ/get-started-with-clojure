@@ -14,6 +14,7 @@ If you haven't already, you should start with reading [calva.io/get-started-with
 
 Fire up the Getting Started REPL:
 
+0. Give the guides some space: Maximize the browser window. Close thee Explorer pane. Shrink the Output/Terminal/Etc pane to about half of what it is now.
 1. Click the **REPL** button in the status bar
 
    ![VS Code Statusbar with Clojure REPL button](status-bar-repl-button.png)
@@ -27,7 +28,7 @@ Fire up the Getting Started REPL:
 
    ![The Calva REPL Menu](repl-menu.png)
 
-Happy learning! 🎉
+Happy Interactve Programming! 🎉
 
 ## Learn more
 
