@@ -5,4 +5,10 @@
     "editor.fontSize": 14,
     "breadcrumbs.enabled": false,
     "editor.minimap.enabled": false,
+    "calva.prettyPrintingOptions": {
+        "enabled": true,
+        "printEngine": "pprint",
+        "width": 40,
+        "maxLength": null
+    },
 }
