@@ -11,4 +11,5 @@
         "width": 40,
         "maxLength": null
     },
+    "markdown.preview.fontSize": 16,
 }
