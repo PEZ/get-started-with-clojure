@@ -12,4 +12,5 @@
         "maxLength": null
     },
     "markdown.preview.fontSize": 16,
+    "problems.decorations.enabled": false,
 }
