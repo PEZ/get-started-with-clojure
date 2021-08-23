@@ -51,6 +51,18 @@ If things seem to work (it looks like the picture shows) you can close the Probl
 
 Happy Interactve Programming! 🎉
 
+## Learn and Practice Clojure using Rich 4Clojure
+
+If you like the style of interactive learning that this guide provides, you should definitely check [Rich 4Clojure](https://github.com/PEZ/rich4clojure) out. It also can be used in the zero-installed way.
+
+You can regard **Rich 4Clojure** as a companion to this guide. It is aimed at practicing Clojure, starting at the elementary levels, bringing you to advanced stuff.
+
+<details><summary>Can I use Rich 4Clojure instead of this guide?</summary>
+
+I suggest you start by opening up this guide and do the Calva part of the excerises. Then use the `welcome_to_clojure.clj` guide in combination with **Rich 4Clojure**.
+
+</details>
+
 ## Learn more
 
 The guides are sprincled with URLs for the various topics brought up.
