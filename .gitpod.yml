@@ -8,7 +8,7 @@ ports:
   - port: 5900
     onOpen: ignore
   - port: 6080
-    onOpen: open-preview
+    onOpen: ignore
     
 tasks:
   - name: Prepare deps
