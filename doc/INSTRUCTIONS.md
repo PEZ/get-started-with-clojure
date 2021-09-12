@@ -65,6 +65,6 @@ I suggest you start by opening up this guide and do the Calva part of the exceri
 
 ## Learn more
 
-The guides are sprincled with URLs for the various topics brought up.
+The guides are sprinkled with URLs for the various topics brought up.
 
 The Calva Documentation is here: [calva.io](https://calva.io/). 
