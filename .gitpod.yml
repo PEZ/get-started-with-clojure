@@ -4,7 +4,12 @@ image:
 vscode:
   extensions:
     - betterthantomorrow.calva
-
+ports:
+  - port: 5900
+    onOpen: ignore
+  - port: 6080
+    onOpen: ignore
+    
 tasks:
   - name: Prepare deps
     init: clojure -Sdeps '{:deps {nrepl/nrepl {:mvn/version,"0.8.3"},cider/cider-nrepl {:mvn/version,"0.26.0"}}}' -P
