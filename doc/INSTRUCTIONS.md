@@ -1,14 +1,12 @@
-# How to use The Getting Started REPL
+# How to use The Getting Started Project
 
-The Getting Started REPL connects Calva to three files, which will serve as your interactive guides:
+The Getting Started Project consist of three Clojure files, which will serve as your interactive guides:
 
 1. `hello_repl.clj` – The basics of how to evaluate code in Calva (i.e. using the REPL)
 2. `hello_paredit.clj` - A super brief intro to Calva structural editing ([Paredit](https://calva.io/paredit))
 3. `welcome_to_clojure.clj` - The very basics of the Clojure language
 
 The files contain a mix of guiding text and snippets of code. You will use the REPL to evaluate the code and sometimes you will be asked to write some code and evaluate it. And so on.
-
-If you haven't already, you should start with reading [calva.io/get-started-with-clojure](https://calva.io/get-started-with-clojure/).  **NB**: A difference between the instructions in the `calva.io/get-started-with-clojure` guide and this one is that here you should _not_ run the **Fire up the Getting Started** command. Things are already set up for the tutorial.
 
 ## Let's go!
 
@@ -57,4 +55,7 @@ I suggest you start by opening up this guide and do the Calva part of the exceri
 
 The guides are sprinkled with URLs for the various topics brought up.
 
+There are links to beginner resources at [calva.io/get-started-with-clojure](https://calva.io/get-started-with-clojure/).
+
 The Calva Documentation is here: [calva.io](https://calva.io/).
+
