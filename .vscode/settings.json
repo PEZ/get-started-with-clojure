@@ -13,4 +13,14 @@
     },
     "markdown.preview.fontSize": 16,
     "problems.decorations.enabled": false,
+    "calva.replConnectSequences": [
+        {
+            "name": "Get started with Clojure",
+            "autoSelectForConnect": true,
+            "autoSelectForJackIn": true,
+            "projectRootPath": ["."],
+            "cljsType": "none",
+            "projectType": "deps.edn",
+        }
+    ],
 }
