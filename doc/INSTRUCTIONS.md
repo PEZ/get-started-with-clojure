@@ -29,15 +29,16 @@ Fire up the Getting Started REPL:
 
    ![The Calva REPL Menu](repl-menu.png)
 
-The REPL will now start and connect, when it is done it should look like so:
+   The REPL will now start and connect, when it is done it should look like so:
 
-![](get-started-with-clojure-window-layout.png)
+   ![](get-started-with-clojure-window-layout.png)
 
-If the `hello_repl.clj` tab is not active when the Calva output window has printed that the file is loaded, then activate the tab.
+   If things seem to work (it looks like the picture shows) you can close the Problems/Output/Terminal area (resize it to zero) to make more room for the guide content. Pleas e note that both the VS Code Output and Terminal panes can contain messages that is needed when you think something has gone wrong and want to ask/report about it.
+1. Click the `hello_repl.clj` tab.
+1. Issue the command **Calva: Load/Evaluate Current File and its Requires/Dependencies**, keyboard shortcut: `Ctrl+Alt/Option+C Enter`
+1. Continue with the instructions in `hello_repl.clj`.
 
-If things seem to work (it looks like the picture shows) you can close the Problems/Output/Terminal area (resize it to zero), to make more room for the guide content. Both the VS Code Output and Terminal panes can contain messages that is needed when you think something has gone wrong and want to ask/report about it.
-
-Happy Interactve Programming! 🎉
+Happy Interactive Programming! 🎉
 
 ## Learn and Practice Clojure using Rich 4Clojure
 
