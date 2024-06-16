@@ -16,4 +16,5 @@ pom.xml.asc
 .cpcache/
 
 .calva/**/*.calva-repl
-.lsp/sqlite*.db
+.lsp/.cache
+.clj-kondo/.cache
