@@ -14,4 +14,4 @@ tasks:
   - name: Prepare deps
     init: clojure -Sdeps '{:deps {nrepl/nrepl {:mvn/version,"0.8.3"},cider/cider-nrepl {:mvn/version,"0.26.0"}}}' -P
   - name: INSTRUCTIONS
-    command: doc/INSTRUCTIONS.md src/get_started/hello_repl.clj src/get_started/welcome_to_clojure.clj code src/get_started/hello_paredit.clj
+    command: code src/get_started/hello_repl.clj src/get_started/welcome_to_clojure.clj src/get_started/hello_paredit.clj doc/INSTRUCTIONS.md
