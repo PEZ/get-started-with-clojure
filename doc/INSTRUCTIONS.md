@@ -25,18 +25,21 @@ Fire up the Getting Started REPL:
     This could be because some firewall or adblocker prevents the downloading of the Calva extension. See [issue #9](https://github.com/PEZ/rich4clojure/issues/9) for more clues on this.
 
     </details>
-1. Select **Start your project with a REPL and connect (a.k.a. Jack-in)** from the quick pick menu.
+1. Select **Create a ”Getting Started“ REPL project** from the quick pick menu.
 
    ![The Calva REPL Menu](repl-menu.png)
+1. You will be asked for a folder to create the project in. The current workspace root will work fine for this.
 
-   The REPL will now start and connect, when it is done it should look like so:
+   ![Choose OK](get-started-folder-dialog.png)
 
-   ![](get-started-with-clojure-window-layout.png)
+   ![Select the current workspace root](get-started-folder-menu.png)
+1. A new browser tab will open with the project files added, and the REPL will start and connect, when it is done it should look like so:
 
-   If things seem to work (it looks like the picture shows) you can close the Problems/Output/Terminal area (resize it to zero) to make more room for the guide content. Pleas e note that both the VS Code Output and Terminal panes can contain messages that is needed when you think something has gone wrong and want to ask/report about it.
-1. Click the `hello_repl.clj` tab.
-1. Issue the command **Calva: Load/Evaluate Current File and its Requires/Dependencies**, keyboard shortcut: `Ctrl+Alt/Option+C Enter`
-1. Continue with the instructions in `hello_repl.clj`.
+![](get-started-with-clojure-window-layout.png)
+
+If the `hello_repl.clj` tab is not active when the Calva output window has printed that the file is loaded, then activate the tab.
+
+If things seem to work (it looks like the picture shows) you can close the Problems/Output/Terminal area (resize it to zero), to make more room for the guide content. Both the VS Code Output and Terminal panes can contain messages that is needed when you think something has gone wrong and want to ask/report about it.
 
 Happy Interactive Programming! 🎉
 

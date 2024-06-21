@@ -1,10 +1,13 @@
 {
     "workbench.editorAssociations": {
-        "INSTRUCTIONS.md": "vscode.markdown.preview.editor"
+        // "INSTRUCTIONS.md": "vscode.markdown.preview.editor"
     },
     "editor.fontSize": 14,
     "breadcrumbs.enabled": false,
     "editor.minimap.enabled": false,
+    "calva.autoOpenInspector": true,
+    "calva.autoOpenREPLWindow": false,
+    "calva.enableInspectorRainbow": true,
     "calva.prettyPrintingOptions": {
         "enabled": true,
         "printEngine": "pprint",
