@@ -1,29 +1,34 @@
 {
-    "workbench.editorAssociations": {
-        "INSTRUCTIONS.md": "vscode.markdown.preview.editor"
-    },
-    "editor.fontSize": 14,
-    "breadcrumbs.enabled": false,
-    "editor.minimap.enabled": false,
-    "calva.autoOpenInspector": true,
-    "calva.autoOpenREPLWindow": false,
-    "calva.enableInspectorRainbow": true,
-    "calva.prettyPrintingOptions": {
-        "enabled": true,
-        "printEngine": "pprint",
-        "width": 40,
-        "maxLength": null
-    },
-    "markdown.preview.fontSize": 16,
-    "problems.decorations.enabled": false,
-    "calva.replConnectSequences": [
-        {
-            "name": "Get started with Clojure",
-            "autoSelectForConnect": true,
-            "autoSelectForJackIn": true,
-            "projectRootPath": ["."],
-            "cljsType": "none",
-            "projectType": "deps.edn",
-        }
-    ],
+  "workbench.editorAssociations": {
+    "INSTRUCTIONS.md": "vscode.markdown.preview.editor"
+  },
+  "editor.fontSize": 14,
+  "breadcrumbs.enabled": false,
+  "editor.minimap.enabled": false,
+  "calva.autoOpenInspector": true,
+  "calva.autoOpenREPLWindow": false,
+  "calva.enableInspectorRainbow": true,
+  "calva.outputDestinations": {
+    "evalResults": "terminal",
+    "evalOutput": "terminal",
+    "otherOutput": "terminal"
+  },
+  "calva.prettyPrintingOptions": {
+    "enabled": true,
+    "printEngine": "pprint",
+    "width": 40,
+    "maxLength": null
+  },
+  "markdown.preview.fontSize": 16,
+  "problems.decorations.enabled": false,
+  "calva.replConnectSequences": [
+    {
+      "name": "Get started with Clojure",
+      "autoSelectForConnect": true,
+      "autoSelectForJackIn": true,
+      "projectRootPath": ["."],
+      "cljsType": "none",
+      "projectType": "deps.edn"
+    }
+  ]
 }
