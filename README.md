@@ -2,7 +2,7 @@
 
 A zero-install, interactve, guide to get you started with [Clojure](https://clojure.org/) using [Calva](https://calva.io/)'s **Getting Started REPL**.
 
-![Clojure and Calva](doc/get-started-with-clojure-header-wo-header.png)
+![Clojure and Calva](doc/get-started-with-clojure-gitpod-header.png)
 
 ## OK, but how?
 
