@@ -12,10 +12,7 @@ The files contain a mix of guiding text and snippets of code. You will use the R
 
 Fire up the Getting Started REPL:
 
-0. Give the guides some space:
-   * Maximize the browser window.
-   * Close thee Explorer pane.
-   * Shrink the Output/Terminal/Etc pane to about a third of what it is now.
+0. Give the guides some space by maximizing the browser window
 1. Click the **REPL** button in the status bar
 
    ![VS Code Statusbar with Clojure REPL button](status-bar-repl-button.png)
@@ -28,7 +25,7 @@ Fire up the Getting Started REPL:
 1. Select **Create a ”Getting Started“ REPL project** from the quick pick menu.
 
    ![The Calva REPL Menu](repl-menu.png)
-1. You will be asked for a folder to create the project in. The current workspace root will work fine for this.
+1. You will be asked for a folder to create the project in. The current workspace root will work fine for this. *NB: The `./doc/` folder may be preselected.*
 
    ![Choose OK](get-started-folder-dialog.png)
 
@@ -39,7 +36,13 @@ Fire up the Getting Started REPL:
 
 If the `hello_repl.clj` tab is not active when the Calva output window has printed that the file is loaded, then activate the tab.
 
-If things seem to work (it looks like the picture shows) you can close the Problems/Output/Terminal area (resize it to zero), to make more room for the guide content. Both the VS Code Output and Terminal panes can contain messages that is needed when you think something has gone wrong and want to ask/report about it.
+### Evaluation results
+
+If things seem to work (it looks like the picture shows) you can select the **Calva Output** “terminal” in the Terminal pane. (It's not a real terminal taking input, it's just where Calva is configured to print output).
+
+Evaluation results will also be added to the **Calva Inspector**. Each entry has context buttons letting you *inspect*, *copy*, etcetera. The inspector is extra handy when something evaluates to a datastructure, like a list or a map.
+
+That's it, please start with the instructions in `hello_repl.clj`.
 
 Happy Interactive Programming! 🎉
 

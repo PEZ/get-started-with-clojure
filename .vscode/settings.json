@@ -30,5 +30,6 @@
       "cljsType": "none",
       "projectType": "deps.edn"
     }
-  ]
+  ],
+  "editor.lightbulb.enabled": "off",
 }
