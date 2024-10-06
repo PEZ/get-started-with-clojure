@@ -1,7 +1,12 @@
 # Get Started with Clojure - Zero install
 
-A zero-install, interactve, guide to get you started with [Clojure](https://clojure.org/) using [Calva](https://calva.io/)'s **Getting Started REPL**.
+_A zero-install, interactve, guide to get you started with [Clojure](https://clojure.org/) using [Calva](https://calva.io/)'s **Getting Started REPL**._
 
+**NB: This Zero install option will stop working on April 1, 2025, when Gitpod is sunsetting what they now call Gitpod Classic. Enjoy it while it lasts! And uncountable thanks to Gitpod for having made this project possible for three years! 🙏❤️**
+
+**The Get Started with Clojure guide will remain available in Calva. You'll need to have VS Code and Java. See [calva.io/get-started-with-clojure/](https://calva.io/get-started-with-clojure/)**
+
+All that said, and until the sun sets over this project:
 ![Clojure and Calva](doc/get-started-with-clojure-gitpod-header.png)
 
 ## OK, but how?
